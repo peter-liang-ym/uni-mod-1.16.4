@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "uu",
+    "su",
+    "s "
+  ],
+  "key": {
+    "u": {
+      "item": "foundations:my_ingot"
+    },
+    "s": {
+      "item": "foundations:sugar_stick"
+    }
+  },
+  "result": {
+    "item": "foundations:my_axe"
+  }
+}

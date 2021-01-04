@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "wdw",
+    "www",
+    " w "
+  ],
+  "key": {
+    "w": {
+      "item": "minecraft:planks"
+    },
+    "d": {
+      "item": "foundations:my_ingot"
+  },
+  "result": {
+    "item": "foundations:cuteness_shield"
+  }
+}

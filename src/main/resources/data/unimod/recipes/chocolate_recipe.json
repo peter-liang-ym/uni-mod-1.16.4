@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ccc",
+    "sss",
+    "ccc"
+  ],
+  "key": {
+    "c": {
+     "item": "minecraft:dye",
+     "data": 3
+    },
+    "s": {
+     "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "foundations:chocolate",
+    "count": 3
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "u u",
+    "u u",
+    "f f"
+  ],
+  "key": {
+    "u": {
+      "item": "foundations:my_ingot"
+    },
+    "f": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "foundations:speedy_boots"
+  }
+}

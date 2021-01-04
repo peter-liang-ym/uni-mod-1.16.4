@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "foundations:blocks/dark_pink_cotton_candy"
+    }
+}

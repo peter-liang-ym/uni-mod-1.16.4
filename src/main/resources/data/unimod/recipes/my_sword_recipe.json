@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "m",
+    "d",
+    "h"
+  ],
+  "key": {
+    "m": { 
+      "item": "foundations:unicorn_horn"
+     },
+     "d": {
+      "item": "foundations:my_ingot"
+     },
+    "h": { 
+      "item": "foundations:sugar_stick"
+     }
+  },
+  "result": {
+    "item": "foundations:my_sword"
+  }
+}

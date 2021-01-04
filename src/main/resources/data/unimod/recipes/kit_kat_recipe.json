@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ccc",
+    "mmm",
+    "ccc"
+  ],
+  "key": {
+    "c": {
+     "item": "foundations:chocolate"
+    },
+    "m": {
+     "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "item": "foundations:kit_kat",
+    "count": 10
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "w",
+    "o",
+    "y"
+  ],
+  "key": {
+    "y": {
+     "item": "foundations:yellow_candy_corn_block"
+    },
+    "o": {
+     "item": "foundations:orange_candy_corn_block"
+    },
+    "w": {
+     "item": "foundations:white_candy_corn_block"
+    }
+  },
+  "result": {
+    "item": "foundations:candy_corn",
+    "count": 5
+  }
+}

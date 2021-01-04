@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "uuu",
+    "u u",
+    "u u"
+  ],
+  "key": {
+    "u": {
+      "item": "foundations:my_ingot"
+    }
+  },
+  "result": {
+    "item": "foundations:my_leggings"
+  }
+}

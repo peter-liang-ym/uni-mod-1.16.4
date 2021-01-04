@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "foundations:items/swedish_fish_candy"
+    }
+}
