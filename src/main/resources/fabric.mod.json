@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "unimod",
+  "version": "${version}",
+
+  "name": "Unicorn Mod",
+  "description": "Add unicorns to Minecraft.",
+  "authors": [
+    "Srntrsest"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "",
+  "icon": "assets/unimod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.srntrsest.unimod.UniMod"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
