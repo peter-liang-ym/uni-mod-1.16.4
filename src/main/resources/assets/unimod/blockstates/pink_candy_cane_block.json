@@ -1,10 +1,7 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "foundations:pink_candy_cane_block"
-  },
-  "variants": {
-    "normal": [{}],
-    "inventory": [{}]
-  }
+    "variants": {
+        "": {
+            "model": "unimod:block/pink_candy_cane_block"
+        }
+    }
 }

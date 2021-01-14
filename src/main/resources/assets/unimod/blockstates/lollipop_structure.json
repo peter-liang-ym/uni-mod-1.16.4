@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "foundations:lollipop_structure" }
+        "": {
+            "model": "unimod:block/lollipop_structure"
+        }
     }
 }

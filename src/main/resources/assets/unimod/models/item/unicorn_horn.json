@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "foundations:items/unicorn_horn"
+        "layer0": "unimod:items/unicorn_horn"
     }
 }

@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "foundations:lucky_block" }
+        "": {
+            "model": "unimod:block/lucky_block"
+        }
     }
 }

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "unimod:uni_ore"
+    },
+    "result": "unimod:uni_dust",
+    "experience": 1000,
+    "cookingtime": 100
+}

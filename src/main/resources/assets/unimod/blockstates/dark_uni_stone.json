@@ -1,10 +1,7 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "foundations:dark_uni_stone"
-  },
-  "variants": {
-    "normal": [{}],
-    "inventory": [{}]
-  }
+    "variants": {
+        "": {
+            "model": "unimod:block/dark_uni_stone"
+        }
+    }
 }

@@ -1,16 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "uuu",
-    "u u",
-    "u u"
-  ],
-  "key": {
-    "u": {
-      "item": "foundations:my_ingot"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "uuu",
+        "u u",
+        "u u"
+    ],
+    "key": {
+        "u": {
+            "item": "unimod:uni_dust"
+        }
+    },
+    "result": {
+        "item": "unimod:uni_leggings"
     }
-  },
-  "result": {
-    "item": "foundations:my_leggings"
-  }
 }

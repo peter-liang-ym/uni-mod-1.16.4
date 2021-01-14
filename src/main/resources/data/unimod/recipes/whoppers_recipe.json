@@ -1,20 +1,20 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "ccc",
-    "cmc",
-    "ccc"
-  ],
-  "key": {
-    "c": {
-     "item": "foundations:chocolate"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "cmc",
+        "ccc"
+    ],
+    "key": {
+        "c": {
+            "item": "unimod:chocolate"
+        },
+        "m": {
+            "item": "minecraft:milk_bucket"
+        }
     },
-    "m": {
-     "item": "minecraft:milk_bucket"
+    "result": {
+        "item": "unimod:whoppers",
+        "count": 3
     }
-  },
-  "result": {
-    "item": "foundations:whoppers",
-    "count": 3
-  }
 }

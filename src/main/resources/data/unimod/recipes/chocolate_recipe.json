@@ -1,21 +1,20 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "ccc",
-    "sss",
-    "ccc"
-  ],
-  "key": {
-    "c": {
-     "item": "minecraft:dye",
-     "data": 3
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "sss",
+        "ccc"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:cocoa_beans"
+        },
+        "s": {
+            "item": "minecraft:sugar"
+        }
     },
-    "s": {
-     "item": "minecraft:sugar"
+    "result": {
+        "item": "unimod:chocolate",
+        "count": 3
     }
-  },
-  "result": {
-    "item": "foundations:chocolate",
-    "count": 3
-  }
 }

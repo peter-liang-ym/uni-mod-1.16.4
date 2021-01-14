@@ -1,10 +1,7 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "foundations:orange_candy_corn_block"
-  },
-  "variants": {
-    "normal": [{}],
-    "inventory": [{}]
-  }
+    "variants": {
+        "": {
+            "model": "unimod:block/orange_candy_corn_block"
+        }
+    }
 }

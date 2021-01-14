@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "foundations:items/sour_patch_kid_candy"
+        "layer0": "unimod:items/sour_patch_kid_candy"
     }
 }

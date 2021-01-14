@@ -23,6 +23,7 @@
     ]
   },
   "mixins": [
+    "unimod.mixins.json"
   ],
 
   "depends": {

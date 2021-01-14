@@ -1,10 +1,7 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "foundations:pink_cotton_candy"
-  },
-  "variants": {
-    "normal": [{}],
-    "inventory": [{}]
-  }
+    "variants": {
+        "": {
+            "model": "unimod:block/pink_cotton_candy"
+        }
+    }
 }

@@ -1,19 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "u u",
-    "u u",
-    "f f"
-  ],
-  "key": {
-    "u": {
-      "item": "foundations:my_ingot"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "u u",
+        "u u",
+        "f f"
+    ],
+    "key": {
+        "u": {
+            "item": "unimod:uni_dust"
+        },
+        "f": {
+            "item": "minecraft:feather"
+        }
     },
-    "f": {
-      "item": "minecraft:feather"
+    "result": {
+        "item": "unimod:speedy_boots"
     }
-  },
-  "result": {
-    "item": "foundations:speedy_boots"
-  }
 }

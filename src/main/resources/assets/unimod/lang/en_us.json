@@ -1,3 +1,17 @@
 {
-    "itemGroup.unimod.general": "UniMod"
+    "itemGroup.unimod.general": "UniMod",
+
+
+    "item.unimod.uni_dust": "Uni Dust",
+
+    "item.unimod.uni_sword": "Uni Sword",
+    "item.unimod.uni_axe": "Uni Axe",
+    "item.unimod.uni_shovel": "Uni Shovel",
+    "item.unimod.uni_hoe": "Uni Hoe",
+    "item.unimod.uni_pickaxe": "Uni Pickaxe",
+
+    "item.unimod.uni_helmet": "Uni Helmet",
+    "item.unimod.uni_chestplate": "Uni Chestplate",
+    "item.unimod.uni_leggings": "Uni Leggings",
+    "item.unimod.uni_boots": "Uni Boots"
 }

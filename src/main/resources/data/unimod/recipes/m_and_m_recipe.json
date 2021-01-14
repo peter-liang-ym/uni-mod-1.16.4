@@ -1,20 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "bcb",
-    "cbc",
-    "bcb"
-  ],
-  "key": {
-    "c": {
-     "item": "foundations:chocolate"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bcb",
+        "cbc",
+        "bcb"
+    ],
+    "key": {
+        "c": {
+            "item": "unimod:chocolate"
+        },
+        "b": {
+            "item": "minecraft:cocoa_beans"
+        }
     },
-    "b": {
-     "item": "minecraft:dye",
-     "data": 3
+    "result": {
+        "item": "unimod:m_and_m"
     }
-  },
-  "result": {
-    "item": "foundations:m_and_m"
-  }
 }

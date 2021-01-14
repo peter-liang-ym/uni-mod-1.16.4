@@ -1,26 +1,26 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "ccc",
-    "aaa",
-    "wmw"
-  ],
-  "key": {
-    "c": {
-     "item": "foundations:chocolate"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "aaa",
+        "wmw"
+    ],
+    "key": {
+        "c": {
+            "item": "unimod:chocolate"
+        },
+        "m": {
+            "item": "minecraft:milk_bucket"
+        },
+        "a": {
+            "item": "unimod:caramel"
+        },
+        "w": {
+            "item": "minecraft:wheat"
+        }
     },
-    "m": {
-     "item": "minecraft:milk_bucket"
-    },
-    "a": {
-      "item": "foundations:caramel"
-    },
-    "w": {
-      "item": "minecraft:wheat"
+    "result": {
+        "item": "unimod:twix",
+        "count": 10
     }
-  },
-  "result": {
-    "item": "foundations:twix",
-    "count": 10
-  }
 }

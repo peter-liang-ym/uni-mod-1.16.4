@@ -1,13 +1,14 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "com.srntrsest.unimod.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "PlayerEntityMixin"
   ],
   "client": [
-    "ExampleMixin"
   ],
+  "server": [],
   "injectors": {
     "defaultRequire": 1
   }

@@ -1,19 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "u u",
-    "u u",
-    "s s"
-  ],
-  "key": {
-    "u": {
-      "item": "foundations:my_ingot"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "u u",
+        "u u",
+        "s s"
+    ],
+    "key": {
+        "u": {
+            "item": "unimod:uni_dust"
+        },
+        "s": {
+            "item": "minecraft:slime_ball"
+        }
     },
-    "s": {
-      "item": "minecraft:slime_ball"
+    "result": {
+        "item": "unimod:jumpy_boots"
     }
-  },
-  "result": {
-    "item": "foundations:jumpy_boots"
-  }
 }

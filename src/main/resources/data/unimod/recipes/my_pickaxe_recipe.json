@@ -1,19 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "uuu",
-    " s ",
-    " s "
-  ],
-  "key": {
-    "u": {
-      "item": "foundations:my_ingot"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "uuu",
+        " s ",
+        " s "
+    ],
+    "key": {
+        "u": {
+            "item": "unimod:uni_dust"
+        },
+        "s": {
+            "item": "unimod:sugar_stick"
+        }
     },
-    "s": {
-      "item": "foundations:sugar_stick"
+    "result": {
+        "item": "unimod:uni_pickaxe"
     }
-  },
-  "result": {
-    "item": "foundations:my_pickaxe"
-  }
 }

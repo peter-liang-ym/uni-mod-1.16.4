@@ -1,16 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "sss",
-    "sss",
-    "sss"
-  ],
-  "key": {
-    "s": {
-      "item": "minecraft:sugar"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sss",
+        "sss",
+        "sss"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:sugar"
+        }
+    },
+    "result": {
+        "item": "unimod:sugar_block"
     }
-  },
-  "result": {
-    "item": "foundations:sugar_block"
-  }
 }

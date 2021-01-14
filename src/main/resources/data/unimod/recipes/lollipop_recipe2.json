@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "trt",
-    "tst",
-    " s "
-  ],
-  "key": {
-    "s": {
-      "item": "minecraft:stick"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "trt",
+        "tst",
+        " s "
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:stick"
+        },
+        "t": {
+            "item": "minecraft:sugar"
+        },
+        "r": {
+            "item": "unimod:green_lollipop_block"
+        }
     },
-    "t": {
-      "item": "minecraft:sugar"
-    },
-    "r": {
-      "item": "foundations:green_lollipop_block"
+    "result": {
+        "item": "unimod:lollipop"
     }
-  },
-  "result": {
-    "item": "foundations:lollipop"
-  }
 }

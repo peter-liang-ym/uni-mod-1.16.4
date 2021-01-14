@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "m",
-    "d",
-    "h"
-  ],
-  "key": {
-    "m": { 
-      "item": "foundations:unicorn_horn"
-     },
-     "d": {
-      "item": "foundations:my_ingot"
-     },
-    "h": { 
-      "item": "foundations:sugar_stick"
-     }
-  },
-  "result": {
-    "item": "foundations:my_sword"
-  }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "m",
+        "d",
+        "h"
+    ],
+    "key": {
+        "m": {
+            "item": "unimod:unicorn_horn"
+        },
+        "d": {
+            "item": "unimod:uni_dust"
+        },
+        "h": {
+            "item": "unimod:sugar_stick"
+        }
+    },
+    "result": {
+        "item": "unimod:uni_sword"
+    }
 }

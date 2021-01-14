@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "foundations:blocks/pink_cotton_candy"
+        "all": "unimod:blocks/pink_cotton_candy"
     }
 }

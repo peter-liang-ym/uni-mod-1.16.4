@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "foundations:items/m_and_m"
+        "layer0": "unimod:items/m_and_m"
     }
 }

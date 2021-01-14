@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "foundations:blocks/uni_stone"
+        "all": "unimod:blocks/uni_stone"
     }
 }

@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "foundations:items/sugar_stick"
+        "layer0": "unimod:items/candy_cane"
     }
 }

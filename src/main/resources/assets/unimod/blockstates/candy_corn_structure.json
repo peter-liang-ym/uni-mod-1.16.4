@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "foundations:candy_corn_structure" }
+        "": {
+            "model": "unimod:block/candy_corn_structure"
+        }
     }
 }
