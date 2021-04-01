@@ -7,6 +7,7 @@ import com.srntrsest.unimod.tools.CustomPickaxeItem;
 import com.srntrsest.unimod.tools.UniToolMaterial;
 import com.srntrsest.unimod.armor.CustomArmorMaterial;
 import com.srntrsest.unimod.helpers.RegistryHelper;
+import net.fabricmc.fabric.api.biome.v1.BiomeModifications;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.item.*;

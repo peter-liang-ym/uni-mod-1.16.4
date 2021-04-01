@@ -54,7 +54,7 @@ public class UniMod implements ModInitializer {
             0, 0, 64
     ))).spreadHorizontally().repeat(20);
 
-HorseEntity
+
     @Override
     public void onInitialize() {
         ModItems.registerItems();
